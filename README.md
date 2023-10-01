@@ -1,7 +1,7 @@
 <h1 align="center"> 🎨 Wonderlust Theme for Windows 11 😄</h1>
 
 <p align="center">
-    <img src="./_img/theme.png">
+    <img src="./_src/theme.png">
 </p>
 
 <p align="center">
